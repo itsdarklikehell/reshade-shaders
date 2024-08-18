@@ -1,0 +1,1 @@
+/home/rizzo/.local/share/reshade/ReShade_shaders/martymc-shaders/Shaders/qUINT_ssr.fx
